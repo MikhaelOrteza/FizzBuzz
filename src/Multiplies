@@ -13,3 +13,4 @@ public class Multiplies {
         System.out.println("There are " + totalFive + " fives " + totalThree + " threes.");
     }
 }
+test
